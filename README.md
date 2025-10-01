@@ -32,7 +32,6 @@ Email Me 👉 ✉️ **shubhcloud7@gmail.com** For Collaboration/Project or Anyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsdroid&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
