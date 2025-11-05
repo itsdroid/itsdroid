@@ -14,7 +14,6 @@ Email Me 👉 ✉️ **shubhcloud7@gmail.com** For Collaboration/Project or Anyt
 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shubhcloud7@gmail.com
-- 😄 **Pronouns:** Shubh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
