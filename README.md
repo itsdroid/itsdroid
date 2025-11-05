@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **shubhcloud7@gmail.com** For Collaboration/Project or Anyt
 
 🔭 I’m currently working on: I’m currently working on web development projects while also practicing DSA to strengthen my problem-solving skills.
 
-🌱 I’m currently learning: I’m currently learning frontend and backend web technologies along with improving my knowledge of data structures and algorithms.
+🌱 I’m currently learning: I’m currently improving my skills in backend web technologies along with improving my knowledge of data structures and algorithms.
 
 👯 I’m looking to collaborate on: I’m looking to collaborate on web development projects where I can contribute and gain practical experience.
 
