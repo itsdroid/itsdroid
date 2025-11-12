@@ -37,7 +37,7 @@
 ### 🔹 Development Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,&theme=light&perline=5" alt="Dev Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,&theme=light&perline=5" alt="Dev Tools Icons"/>
 </div>
 
 ###
