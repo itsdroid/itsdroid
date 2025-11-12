@@ -31,7 +31,7 @@
 ### 🔹 Design & Creative Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,canva&theme=light&perline=5" alt="Design & Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,Illustrator,canva&theme=light&perline=5" alt="Design & Tools Icons"/>
 </div>
 
 ### 🔹 Development Arsenal
