@@ -23,7 +23,7 @@
 ### 🔹 Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,,tailwind&theme=light&perline=5" alt="Framework Icons"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind&theme=light&perline=5" alt="Framework Icons"/>
 </div>
 
 
