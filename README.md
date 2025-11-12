@@ -23,7 +23,7 @@
 ### 🔹 Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,MySQL,tailwind&theme=light&perline=5" alt="Framework Icons"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,,tailwind&theme=light&perline=5" alt="Framework Icons"/>
 </div>
 
 
@@ -31,7 +31,7 @@
 ### 🔹 Design & Creative Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,illustrator,arduino,canva&theme=light&perline=5" alt="Design & Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,linux,kali,arduinocanva&theme=light&perline=5" alt="Design & Tools Icons"/>
 </div>
 
 ### 🔹 Development Arsenal
