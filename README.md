@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> Hey, nice to see you. </b> </h1>
 <br>
-<h2> Hi, I'm Shubham Popalghat, a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that I can succesfully center an element with css. Beside's Graphics Deign stuff, I play pc games and constantly learn new things. </h2>
+<h3> Hi, I'm Shubham Popalghat, a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that I can succesfully center an element with css. Beside's Graphics Deign stuff, I play pc games and constantly learn new things. </h3>
 <br>
 
 
