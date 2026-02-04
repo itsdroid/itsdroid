@@ -7,7 +7,7 @@
 <img align="right" height="250" alt="GIF" src="https://github.com/itsdroid/itsdroid/blob/main/Resources/Gif/CodeAwesomeShit.gif" />
 
 - <h3> 📫 How to reach me: </h3>
-<b>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  [shubhcloud7@gmail.com](mailto:shubhampopalghat77@gmail.com) <b>  
+<b>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  [shubhampopalghat77@gmail.com](mailto:shubhampopalghat77@gmail.com) <b>  
 - <h3> 🔗 My website: </h3> 
 <b>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  [https://shubhfolio.framer.website](https://shubhfolio.framer.website)  <b>  
  
