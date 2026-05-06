@@ -48,7 +48,6 @@
 
 
 ###
-##
 <br>
 
 ### ✍️ Random Dev Quote
