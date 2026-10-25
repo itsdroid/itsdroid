@@ -35,19 +35,6 @@
 arch in ~ 
   λ echo "Be Consistent!"
 ```
-<br>
-<p align="center">
-<samp>
-  <i>Connect With Me</i>
-  <br>
-  <sup>
-    <b>
-    <a href="https://www.linkedin.com/in/shubham-popalghat">🔗 LinkedIn</a> |
-    </b>
-    <br>
-  </sup>
-</samp>
-</p>
 
 <br>
 
