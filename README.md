@@ -50,34 +50,7 @@ arch in ~
 </p>
 
 <br>
-<p align="center">
-<samp>
-  <i>Languages and Tools</i>
-  <br>
-  <sup>
-    <b>
-      Python | GO | C | HTML | CSS | JS | Tailwind CSS | Next.js | Figma | Framer | Git | Bash | Linux
-    </b>
-    <br>
-  </sup>
-</samp>
-</p>
 
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayozxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-<p align="center">
-<samp>
-  <i>Support Me</i>
-  <br>
-  <sup>
-    <b>
-      <a href="https://www.buymeacoffee.com/kayozxo">Buy Me a Coffee</a>
-    </b>
-    <br>
-  </sup>
-</samp>
-</p>
 
 ###
 **Languages and Tools:**
